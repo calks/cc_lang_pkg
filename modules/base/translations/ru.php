@@ -8,7 +8,8 @@
 			
 			$translations = array(
 				'Object saved successfully' => 'Объект сохранен',
-				'Order changed' => 'Порядок изменен'
+				'Order changed' => 'Порядок изменен',
+				'Settins saved successfully' => 'Настройки сохранены' 
 			);
 			
 			$translations = array_merge($parent_translations, $translations);		
