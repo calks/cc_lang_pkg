@@ -1,22 +1,20 @@
 <?php
 
-	class langPkgBaseModuleRuTranslation extends langPkgRuTranslation {
+	class langPkgBaseFilterRuTranslation extends langPkgRuTranslation {
 	
 		public function getTranslations() {
 			
 			$parent_translations = parent::getTranslations();
 			
 			$translations = array(
-				'delete' => 'удалить',
-				'Upload' => 'Загрузить'				
+				'Name or Email' => 'Имя или Email',
+				'Role' => 'Роль'
 			);
 			
 			$translations = array_merge($parent_translations, $translations);		
 			
 			return $translations;
-			
-			
-					
 		}
+		
 		
 	}
