@@ -8,7 +8,8 @@
 			
 			$translations = array(
 				'delete' => 'удалить',
-				'Upload' => 'Загрузить'				
+				'Upload' => 'Загрузить',
+				
 			);
 			
 			$translations = array_merge($parent_translations, $translations);		
