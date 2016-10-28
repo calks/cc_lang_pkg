@@ -15,7 +15,9 @@
 				'META Keywords' => 'META Keywords',
 				'&lt;title&gt; (browser tab heading)' => 'TITLE (заголовок окна броузера)',
 				'URL slug' => 'фрагмент URL',
-				'Content' => 'Контент'
+				'Content' => 'Контент',
+				'Title' => 'Название',
+				'Ordering' => 'Порядок'
 			
 			);
 			
