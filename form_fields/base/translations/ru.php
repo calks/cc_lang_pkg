@@ -9,7 +9,8 @@
 			$translations = array(
 				'from' => 'от',
 				'to' => 'до',
-				' at ' => ' в '
+				' at ' => ' в ',
+				'Add' => 'Добавить'
 			);
 			
 			$translations = array_merge($parent_translations, $translations);		
