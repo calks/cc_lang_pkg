@@ -11,7 +11,9 @@
 				'First Name' => 'Имя',
 				'Last Name' => 'Фамилия',				
 				'Roles' => 'Роли',
-				'Login' => 'Логин'
+				'Login' => 'Логин',
+				'Password' => 'Пароль',
+				'New password' => 'Новый пароль'
 			);
 			
 			$translations = array_merge($parent_translations, $translations);		
